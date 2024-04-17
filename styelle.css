@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden; 
+}
+.column {
+float: left;
+box-sizing: border-box;
+padding: 20px;
+}
+.column-1 {
+    width: 30%;
+    background-color: #f0f0f0;
+}
+.column-2 {
+    width: 30%;
+    background-color: #e0e0e0;
+}
+@media screen and (max-width: 768px) {
+    .column {
+        width: 100%;
+    }
+}

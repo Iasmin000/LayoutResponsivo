@@ -1,7 +1,6 @@
 
 .LayoutResponsivo, h1 {
-      margin-left: auto; 
-      margin-right:auto ;
+text-align: center;
     }
 ul {
     list-style-type: none;

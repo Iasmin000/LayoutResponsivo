@@ -1,8 +1,4 @@
-body{
-    background-color: #b5effd;
-  }
-   .Menu-Vertical, h1 {
-      width: 300px; 
+.Menu-Vertical, h1 { 
       margin-left: auto; 
       margin-right:auto ;
     }

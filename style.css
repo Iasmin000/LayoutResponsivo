@@ -29,5 +29,5 @@ body {
     transition: background-color 0.3s;
 }
 .menu ul li a:hover {
-    background-color: #f0f0f0;
+    background-color: #cfe8ee;
 }
